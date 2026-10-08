@@ -57,4 +57,4 @@ Strengthen my maths and programming foundations, evaluate trajectories at matche
 
 ---
 
-<sub>大一学生的学习记录：从行星科学问题出发，逐步学习编程、定位与建图，认真记录实验与思考。</sub>
+<sub>A first-year student's learning record: starting with planetary science questions, building foundations in programming, localisation and mapping, and documenting each experiment and idea carefully.</sub>
